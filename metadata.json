@@ -1,0 +1,6 @@
+{
+  "name": "Spatial Agent Workspace",
+  "description": "An interactive volumetric 3D environment including a Spatial Web Browser, linked agent notepad, countdown timers, and integrated generative AI agent console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
